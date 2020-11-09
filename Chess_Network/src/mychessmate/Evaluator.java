@@ -2,7 +2,7 @@ package mychessmate;
 
 
 
-public class Evaluator {   
+public class Evaluator {
     public int evaluate(Position position){ 
         int human_score = 0;                                // Điểm di chuyển của Human, computer
         int computer_score = 0;
